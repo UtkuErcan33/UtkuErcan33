@@ -5,7 +5,7 @@ Merhaba! Ben Utku Mustafa ERCAN. Fırat Üniversitesi'nde Yazılım Mühendisli�
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/utku.ercan.33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/](https://www.linkedin.com/in/utku-mustafa-ercan-9449712ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UTKU MUSTAFA ERCAN)
 
 ---
 
